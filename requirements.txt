@@ -1,0 +1,4 @@
+fluidlab==0.1.0
+numpy==1.23.3
+pynput==1.7.6
+zaber_motion==3.4.2
